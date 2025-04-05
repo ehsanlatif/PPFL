@@ -12,7 +12,7 @@ This repository contains an implementation of a **Federated Learning** setup for
 ### Architectural Diagram
 Below is a visual representation of the Federated Learning architecture used in this project:
 
-![Federated Learning Architecture](./federated_learning_architecture.png)
+![Federated Learning Architecture](./federated_learning.png)
 
 ---
 
