@@ -1,10 +1,10 @@
-# Federated Learning Project
+# Federated Learning with Privacy Preservation
 
-This repository contains an implementation of a **Federated Learning** setup called `FedTinyMath` for solving simple math problems (e.g., `1+1*4 = 5`). The project uses the `Maykeye/TinyLLama-v0` model and demonstrates federated training across multiple workers without sharing raw data, maintaining data privacy.
+This repository contains an implementation of a **Federated Learning** setup for educational assessments. The project uses the `Maykeye/TinyLLama-v0` model and demonstrates federated training across multiple school clients without sharing raw data, maintaining data privacy.
 
 ## Features
 - Federated training for collaboratively fine-tuning `TinyLlama-v0` on mathematical problems.
-- Utilizes the `Open-Platypus` dataset for training.
+- Utilizes the NGSS dataset for training.
 - LoRA-based fine-tuning for lightweight and efficient adaptation.
 - Support for training on multiple devices without using PyTorch distribution techniques.
 - Compatibility with `MLX` for Apple Mac Silicon devices.
