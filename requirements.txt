@@ -1,0 +1,7 @@
+flwr==1.4.0
+torch
+transformers
+pywheel==14.0.0
+datasets==2.14.5
+accelerate
+peft
