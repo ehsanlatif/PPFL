@@ -266,8 +266,11 @@ python inference.py
 ## References
 
 [1] Harris, C.J., Krajcik, J.S., Pellegrino, J.W.: *Creating and using instructionally supportive assessments in NGSS classrooms*. NSTA Press (2024)
+
 [2] PASTA, P.T.: *Supporting instructional decision making: Potential of an auto-matically scored three-dimensional assessment system.* (November, 2023)
+
 [3] Zhai, X., He, P., Krajcik, J.: *Applying machine learning to automatically assess scientific models.* Journal of Research in Science Teaching 59(10), 1765–1794 (2022)
+
 [4] He, P., Shin, N., Zhai, X., Krajcik, J.: *Guiding teacher use of artificial intelligence-based knowledge-in-use assessment to improve instructional decisions: A conceptual framework.* In: Zhai, X., Krajcik, J. (eds.) Uses of Artificial Intelligence in STEM Education, Oxford University Press (2024)
 
 ---
