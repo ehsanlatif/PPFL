@@ -1,9 +1,9 @@
 # Federated Learning with Privacy Preservation
 
-This repository contains an implementation of a **Federated Learning** setup for educational assessments. The project uses the `Maykeye/TinyLLama-v0` model and demonstrates federated training across multiple school clients without sharing raw data, maintaining data privacy.
+This repository contains an implementation of a **Federated Learning** setup for educational assessments. The project uses the `TinyLLama` model and demonstrates federated training across multiple school clients without sharing raw data, maintaining data privacy.
 
 ## Features
-- Federated training for collaboratively fine-tuning `TinyLlama-v0` on mathematical problems.
+- Federated training for collaboratively fine-tuning `TinyLlama` on science assessments.
 - Utilizes the NGSS dataset for training.
 - LoRA-based fine-tuning for lightweight and efficient adaptation.
 - Support for training on multiple devices without using PyTorch distribution techniques.
